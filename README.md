@@ -1,6 +1,6 @@
 Predict Loan Default With Logistic Regression
 
-This model uses a dataset with mor than 9000 historical observations to predict the probability of loan default (variable dafaule: 1 = default, 0= no default) based on 6 independent variables. The independent variables are the following:
+This model uses a dataset with mor than 9500 historical observations to predict the probability of loan default (variable dafaule: 1 = default, 0= no default) based on 6 independent variables. The independent variables are the following:
 
 installment: total ammount of loan installments to pay per month in $. min = $16; max= $927 ; mean= $344.31;
 
